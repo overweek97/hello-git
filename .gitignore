@@ -1,0 +1,13 @@
+# .gitignore
+# Java class files
+*.class
+
+# Executable files
+*.exe
+
+# Object and archive files
+# Can usr regular expression, e.g., [oa] matches either o or a
+*.[oa]
+
+# temp sub-directory (ended woth a directory separator)
+temp/
